@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="simpanButton" type="id" />
+    <item name="jml1" type="id" />
+    <item name="jml2" type="id" />
+    <item name="jml3" type="id" />
+    <item name="jml4" type="id" />
+    <item name="jml5" type="id" />
+    <item name="jml6" type="id" />
+    <item name="jml7" type="id" />
+    <item name="hrg1" type="id" />
+    <item name="hrg2" type="id" />
+    <item name="hrg3" type="id" />
+    <item name="hrg4" type="id" />
+    <item name="hrg5" type="id" />
+    <item name="hrg6" type="id" />
+    <item name="hrg7" type="id" />
+</resources>
